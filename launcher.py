@@ -1,3 +1,9 @@
+"""
+Quick Launch App - A customizable application launcher
+This app provides a grid of buttons that can launch various applications and websites.
+Created by ApexDazza
+"""
+
 import customtkinter as ctk
 import webbrowser
 import json
