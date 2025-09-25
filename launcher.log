@@ -1,0 +1,2 @@
+2025-09-25 23:08:17,257 - CRITICAL - Failed to start application: 'Config' object has no attribute 'load_settings'
+2025-09-25 23:08:52,361 - CRITICAL - Failed to start application: 'method' object is not subscriptable
